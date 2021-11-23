@@ -1,2 +1,3 @@
 # ALPHA_SQL
-Basic SQL database
+Basic SQL database/Query
+Contains different operations and tables
